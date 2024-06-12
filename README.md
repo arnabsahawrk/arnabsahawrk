@@ -25,7 +25,7 @@ I'm a passionate Front-End Web Developer leveraging modern technologies like Jav
 
 ### :chart_with_upwards_trend: Current Stats
 
-![arnabsaha's Stats](https://github-readme-stats.vercel.app/api?username=arnabsahawrk&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![arnabsaha's Stats](https://github-readme-stats.vercel.app/api?username=arnabsahawrk&rank_icon=percentile&theme=darcula&show_icons=true&hide_border=true&count_private=true&hide=issues,prs,contribs)
 
 ![arnabsaha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnabsahawrk&theme=darcula&hide_border=true)
 
