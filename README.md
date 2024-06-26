@@ -14,7 +14,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=Vercel)
 ![Markdown](https://img.shields.io/badge/Markdown-%2329A1E4?style=flat-square&logo=Markdown)
 
-I'm a passionate Full Stack Web Developer leveraging modern technologies like JavaScript, Next.js, React.js, and cutting-edge tools to craft user-centric websites. Skilled in both front-end (TypeScript, React, Next.js) and back-end (Node.js, Express.js, MongoDB), I translate designs into efficient code, ensuring quality and continual learning. **I'm open to work and employment opportunities**.
+I'm a passionate Full Stack Developer leveraging modern technologies like JavaScript, Next.js, React.js, and cutting-edge tools to craft user-centric websites. Skilled in both front-end (JavaScript, React, Next.js) and back-end (Node.js, Express.js, MongoDB), I translate designs into efficient code, ensuring quality and continual learning. **I'm open to work and employment opportunities**.
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
