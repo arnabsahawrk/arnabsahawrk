@@ -7,14 +7,16 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js)
+![Static Badge](https://img.shields.io/badge/Redux-%23764ABC?style=flat-square&logo=Redux)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=Express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23001E2B?style=flat-square&logo=MongoDB)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23DD2C00?style=flat-square&logo=Firebase)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=Vercel)
 ![Markdown](https://img.shields.io/badge/Markdown-%2329A1E4?style=flat-square&logo=Markdown)
 
-I'm a passionate Full Stack Developer leveraging modern technologies like JavaScript, Next.js, React.js, and cutting-edge tools to craft user-centric websites. Skilled in both front-end (JavaScript, React, Next.js) and back-end (Node.js, Express.js, MongoDB), I translate designs into efficient code, ensuring quality and continual learning. **I'm open to work and employment opportunities**.
+I'm a Frontend Focused Web Developer building and managing the Front-end of Websites and Web Applications that lead to the success of the overall product. **I'm open to work and employment opportunities** where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me.
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
