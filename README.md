@@ -7,12 +7,13 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js)
-![Static Badge](https://img.shields.io/badge/Redux-%23764ABC?style=flat-square&logo=Redux)
+![React Router](https://img.shields.io/badge/React%20Router-%23CA4245?style=flat-square&logo=React%20Router&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC?style=flat-square&logo=Redux)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=Express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23001E2B?style=flat-square&logo=MongoDB)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23DD2C00?style=flat-square&logo=Firebase)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=Firebase&logoColor=%23000)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=Vercel)
 ![Markdown](https://img.shields.io/badge/Markdown-%2329A1E4?style=flat-square&logo=Markdown)
 
@@ -24,11 +25,15 @@ I'm a Frontend Focused Web Developer building and managing the Front-end of Webs
 
 ### :chart_with_upwards_trend: Current Stats
 
-![arnabsaha's Stats](https://github-readme-stats.vercel.app/api?username=arnabsahawrk&rank_icon=percentile&theme=darcula&show_icons=true&hide_border=true&count_private=true&hide=issues,prs,contribs)
+#### GithHub
+![arnabsaha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnabsahawrk&rank_icon=percentile&theme=dark&show_icons=true&count_private=true&hide=issues,prs,contribs)
 
-![arnabsaha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnabsahawrk&theme=darcula&hide_border=true)
+![arnabsaha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnabsahawrk&theme=dark)
 
-![arnabsaha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabsahawrk&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![arnabsaha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabsahawrk&theme=dark&show_icons=true&layout=compact)
+
+#### LeetCode
+![arnabsaha's LeetCode Stats](https://leetcode.card.workers.dev/arnabsahawrk?theme=dark&font=source_code_pro&extension=null)
 
 ### Where To Find Me
 
