@@ -1,7 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice To See You.</h1>
 
-![C](https://img.shields.io/badge/C-%236295CB?style=flat-square&logo=C&labelColor=%2300427E)
-![C++](https://img.shields.io/badge/C%2B%2B-%236295CB?style=flat-square&logo=C%2B%2B&labelColor=%2300427E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -20,26 +18,20 @@
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=Vercel)
 ![Markdown](https://img.shields.io/badge/Markdown-%2329A1E4?style=flat-square&logo=Markdown)
 
-I'm a Software Engineer with a huge love for DSA, MERN Technologies, DBMS, API Development, and System Architecture. My focus is on building and managing web applications that drive the success of the overall product. I am highly result-oriented, constantly seeking to deliver impactful and efficient solutions through clean, maintainable code. **I'm open to work and employment opportunities**
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+I'm a software developer, constantly striving to learn and grow in the field of computer science and engineering. I aim to become a skilled software engineer and contribute to the success of businesses by delivering practical solutions. **I'm open to work and employment opportunities**
+- 🌱 I’m currently exploring computer science, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 📫 I am just one mail away - [arnabsahawrk@gmail.com]
 
 ### :chart_with_upwards_trend: Current Stats
-
-#### GithHub
 ![arnabsaha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnabsahawrk&rank_icon=percentile&theme=dark&show_icons=true&count_private=true&hide=issues,prs,contribs)
 
 ![arnabsaha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnabsahawrk&theme=dark)
 
 ![arnabsaha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabsahawrk&theme=dark&show_icons=true&layout=compact)
 
-#### LeetCode
-![arnabsaha's LeetCode Stats](https://leetcode.card.workers.dev/arnabsahawrk?theme=dark&font=source_code_pro&extension=null)
-
 ### Where To Find Me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnabsahawrk)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=X)](https://twitter.com/arnabsahawrk)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/arnabsahawrk)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=flat-square&logo=LeetCode&labelColor=%23171717)](https://leetcode.com/u/arnabsahawrk)
