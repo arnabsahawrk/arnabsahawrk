@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice To See You.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1626472336/47591/cat-wave.gif?1626472336" width="45"/>Hey! You Found Me</h1>
 
 ![C](https://img.shields.io/badge/C-%236295CB?style=flat-square&logo=C&labelColor=%2300427E)
 ![C++](https://img.shields.io/badge/C%2B%2B-%236295CB?style=flat-square&logo=C%2B%2B&labelColor=%2300427E)
@@ -20,7 +20,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=Vercel)
 ![Markdown](https://img.shields.io/badge/Markdown-%2329A1E4?style=flat-square&logo=Markdown)
 
-I am a Software Engineer with a huge love for Competitive Programming, DSA, OOP, DBMS, Web Technologies, and Backend Development. My focus is on building and managing software that drives the success of the overall product. I am highly result-oriented, constantly seeking to deliver impactful and efficient solutions through clean and maintainable code. **I'm open to work and employment opportunities**
+I am a Programmer with a huge love for Competitive Programming, DSA, OOP, DBMS, and Backend Development. Being a technology enthusiast, I have been exploring the fields of computer science. **I'm open to work and employment opportunities (remote and relocation)**.
 - 🌱 Being a technology enthusiast, I have been exploring the fields of computer science
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 📫 I am just one mail away - [arnabsahawrk@gmail.com]
@@ -34,7 +34,7 @@ I am a Software Engineer with a huge love for Competitive Programming, DSA, OOP,
 ![arnabsaha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabsahawrk&theme=dark&show_icons=true&layout=compact)
 <!-- #### LeetCode
 ![arnabsaha's LeetCode Stats](https://leetcode.card.workers.dev/arnabsahawrk?theme=dark&font=source_code_pro&extension=null) -->
-### Where To Find Me
+### Find Me Online
 
 [![CodeForces](https://img.shields.io/badge/CodeForces-%231F8ACB?style=flat-square&logo=codeforces&logoColor=%231F8ACB&labelColor=%23f9d05b)](https://codeforces.com/profile/arnabsahawrk)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638?style=flat-square&logo=codechef)](https://www.codechef.com/users/arnabsahawrk)
