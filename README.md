@@ -20,26 +20,28 @@
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=Vercel)
 ![Markdown](https://img.shields.io/badge/Markdown-%2329A1E4?style=flat-square&logo=Markdown)
 
-I am a Programmer with a huge love for Competitive Programming, DSA, OOP, DBMS, and Backend Development. Being a technology enthusiast, I have been exploring the fields of computer science. **I'm open to work and employment opportunities (remote and relocation)**.
+I am a Software Engineer with a huge love for DSA, OOP, DBMS, and Web Development. Being a technology enthusiast, I have been exploring the fields of computer science. **I'm open to work and employment opportunities (remote and relocation)**.
 - 🌱 Being a technology enthusiast, I have been exploring the fields of computer science
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 📫 I am just one mail away - [arnabsahawrk@gmail.com]
 
 ### :chart_with_upwards_trend: Current Stats
-<!-- #### GithHub -->
-![arnabsaha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnabsahawrk&rank_icon=percentile&theme=dark&show_icons=true&count_private=true&hide=issues,prs,contribs)
+
+#### GithHub
+![arnabsaha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnabsahawrk&theme=dark&show_icons=true&count_private=true)
 
 ![arnabsaha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnabsahawrk&theme=dark)
 
 ![arnabsaha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabsahawrk&theme=dark&show_icons=true&layout=compact)
-<!-- #### LeetCode
-![arnabsaha's LeetCode Stats](https://leetcode.card.workers.dev/arnabsahawrk?theme=dark&font=source_code_pro&extension=null) -->
-### Find Me Online
 
-[![CodeForces](https://img.shields.io/badge/CodeForces-%231F8ACB?style=flat-square&logo=codeforces&logoColor=%231F8ACB&labelColor=%23f9d05b)](https://codeforces.com/profile/arnabsahawrk)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638?style=flat-square&logo=codechef)](https://www.codechef.com/users/arnabsahawrk)
+#### LeetCode
+![arnabsaha's LeetCode Stats](https://leetcode.card.workers.dev/arnabsahawrk?theme=dark&font=source_code_pro&extension=null)
+
+### Find Me Online
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=flat-square&logo=LeetCode&labelColor=%23171717)](https://leetcode.com/u/arnabsahawrk)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23001E2B?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/profile/arnabsahawrk)
+[![CodeForces](https://img.shields.io/badge/CodeForces-%231F8ACB?style=flat-square&logo=codeforces&logoColor=%231F8ACB&labelColor=%23f9d05b)](https://codeforces.com/profile/arnabsahawrk)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638?style=flat-square&logo=codechef)](https://www.codechef.com/users/arnabsahawrk)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnabsahawrk)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=X)](https://twitter.com/arnabsahawrk)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/arnabsahawrk)
