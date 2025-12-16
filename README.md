@@ -14,7 +14,7 @@
 
 <hr />
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/arnabsahawrk?theme=dark&ext=contest) <br />
+![LeetCode Stats](https://leetcard.jacoblin.cool/arnabsahawrk?theme=dark) <br />
 [![CodeForces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=arnabsahawrk&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/arnabsahawrk) <br />
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=arnabsahawrk&theme=dark&date_format=M%20j%5B%2C%20Y%5D) <br />
